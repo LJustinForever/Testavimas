@@ -1,0 +1,9 @@
+global using Microsoft.VisualStudio.TestTools.UnitTesting;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.IdentityModel.Tokens;
+global using MovieApp.Dto;
+global using MovieApp.Interfaces;
+global using MovieApp.Services;
+global using MovieApp.Testing;
+global using MSTest;
